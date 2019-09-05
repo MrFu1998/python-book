@@ -1,7 +1,4 @@
-都是一些关于`python`的电子书籍
-
-在`python`的自带编辑器中，`import this`可以获取到`python`之禅
-
+# `python`之禅
 ```python
 Beautiful is better than ugly.
 Explicit is better than implicit.
